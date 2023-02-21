@@ -1,0 +1,7 @@
+name=Ammo Reloading
+id=handloading
+poster=poster.png
+description=Ammo Reloading with sulfer charcoal GP crafing
+description=++ Forge,Sulfer Nodes, charcoal, brass\shotgun casings
+author=Lividsubset3
+WorldInit = lua

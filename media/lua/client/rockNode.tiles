@@ -1,0 +1,19 @@
+{
+    "RockNode" :
+    {
+        "type" : "IsoObject",
+        "north" : "mytilepack",
+        "west" : "mytilepack",
+        "south" : "mytilepack",
+        "east" : "mytilepack",
+        "sprite" : "constructedobjects_01_14",
+        "sprite2" : "constructedobjects_01_15",
+        "sprite3" : "constructedobjects_01_16",
+        "max_health" : 1,
+        "destroy_item" : "Stone",
+        "health" : 1,
+        "invulnerable" : false,
+        "min_time_between_hits" : 10,
+        "xp" : 2
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "images" :
+    [
+        {
+            "id" : 0,
+            "texture" : "mytilepack/0.png"
+        }
+    ]
+}

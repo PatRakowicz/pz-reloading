@@ -1,0 +1,97 @@
+module Reloading {
+
+	imports
+	{
+		Base
+	}
+
+	item BirdExcrement
+	{
+	    DisplayCategory			=	Material,
+		Type					=	Normal,
+		DisplayName				=	Bird Excrement,
+		Icon					=	BirdExcrement,
+		UseWhileEquipped		=	FALSE,
+		Weight					=	0.1,
+	}
+	
+	item Sulfur
+	{
+	    DisplayCategory			=	Material,
+		Type					=	Normal,
+		DisplayName				=	Sulfur,
+		Icon					=	Sulfur,
+		UseWhileEquipped		=	FALSE,
+		Weight					=	0.1,
+	}
+
+	item RecPlastic
+	{
+	    DisplayCategory			=	Material,
+		Type					=	Normal,
+		DisplayName				=	Recycled Plastic,
+		Icon					=	RecPlastic,
+		UseWhileEquipped			=	FALSE,
+		Weight					=	0.1,
+	}
+
+	item Sulfur_Dust
+	{
+	    DisplayCategory        =   Material,
+	    Type                   =   Normal,
+	    DisplayName            =   Sulfur Dust,
+	    Icon                   =   Sulfur_Dust,
+	    UseWhileEquipped       =   FALSE,
+	    Weight                 =   0.01,
+	}
+
+	item Charcoal_Dust
+	{
+	    DisplayCategory        =   Material,
+	    Type                   =   Normal,
+	    DisplayName            =   Charcoal Dust,
+	    Icon                   =   Charcoal_Dust,
+	    UseWhileEquipped       =   FALSE,
+	    Weight                 =   0.01,
+	}
+
+	item Charcoal
+	{
+	    DisplayCategory        =   Material,
+	    Type                   =   Normal,
+	    DisplayName            =   Charcoal,
+	    Icon                   =   Charcoal,
+	    UseWhileEquipped       =   FALSE,
+	    Weight                 =   1,
+	}
+
+	item Spent_Shotgun_Shell
+	{
+	    DisplayCategory        =   Ammo,
+	    Type                   =   Normal,
+	    DisplayName            =   Spent Shotgun Shells,
+	    Icon                   =   Spent_Shotgun_Shells,
+	    UseWhileEquipped       =   FALSE,
+	    Weight                 =   0.03,
+	}
+
+	item Spent_Casings
+	{
+	    DisplayCategory        =   Ammo,
+	    Type                   =   Normal,
+	    DisplayName            =   Spent Casings,
+	    Icon                   =   Spent_Casings,
+	    UseWhileEquipped       =   FALSE,
+	    Weight                 =   0.04
+	}
+
+	item Primers
+	{
+	    DisplayCategory        =   Ammo,
+	    Type                   =   Normal,
+	    DisplayName            =   Primers,
+	    Icon                   =   Primers,
+	    UseWhileEquipped       =   FALSE,
+	    Weight                 =   0.001
+	}
+}
